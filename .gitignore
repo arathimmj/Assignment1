@@ -12,7 +12,7 @@ robots.txt
 site.webmanifest
 tile.png
 tile-wide.png
-.editorconfig
+_editorconfig
 _gitattributes.txt
 _gitignore.txt
-.htaccess
+._htaccess
